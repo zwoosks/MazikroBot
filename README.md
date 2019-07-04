@@ -1,0 +1,2 @@
+# MazikroBot
+Bot de Mazikro
