@@ -1,2 +1,2 @@
 # MazikroBot
-Bot de Mazikro
+My first Discord Bot using JDA.
